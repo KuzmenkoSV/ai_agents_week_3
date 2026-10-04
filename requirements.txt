@@ -1,0 +1,11 @@
+requests
+pydantic
+python-dotenv
+pandas
+matplotlib
+numpy
+httpx
+langgraph
+langchain
+langchain-openai
+smolagents
